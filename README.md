@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lunga Hamilton Momoza</h1>
 <h3 align="center">A passionate frontend software developer from South Africa that is eager to embark on collaborative tech journey. I am deeply committed to crafting high-end technological solutions and innovative software. My passion lies in creating user-interactive applications that significantly elevate customer experiences. Eager to contribute to the rapid growth of the technological landscape, I aspire to be an integral part of teams driving innovation and excellence in the field software and programming. Proficient in developing creative, innovative and responsive websites, creating interactive user interfaces with Figma while leveraging React as a robust framework. I am always committed to continuous learning and problem-solving. If you are in search of a creative team player with innovative ideas and a strong work ethic. Lets connect and a build something creative and innovative together. You can reach out to me through my linkedin or Github (https://www.linkedin.com/in/lunga-hamilton-momoza-94bb181a7) .</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/lungaHamilton09/Personal-Portfolio.git)
+- 🔭 I’m currently working on [Personal Portfolio :https://portfolio-project-72d94.web.app/  )
 
 - 🌱 I’m currently learning **React Native and PHP**
 
